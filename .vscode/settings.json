@@ -1,0 +1,13 @@
+{
+  "files.associations": {
+    "*.ejs": "html",
+    "iostream": "cpp",
+    "queue": "cpp",
+    "stack": "cpp",
+    "unordered_map": "cpp",
+    "vector": "cpp",
+    "set": "cpp",
+    "ostream": "cpp",
+    "__hash_table": "cpp"
+  }
+}
